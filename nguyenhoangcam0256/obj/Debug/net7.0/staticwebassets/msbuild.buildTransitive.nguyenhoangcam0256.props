@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\nguyenhoangcam0256.props" />
+</Project>

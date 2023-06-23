@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "muUOF81sowd1ogSVDmD980BS+MwHR7F6ztanKVHxx5msNNBeWpFy0RpPmp80YckKCuqEV3Ykba5pxuXfSmDyww==",
+  "dgSpecHash": "fRYVnsx/oa03EzXNszwUyvYoK1t5z4YLayxTU4VC2gU/WXwWSWY/19AyexXVfe5N4TF91v4tASJiHNkuJq2NCA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Nitro\\Desktop\\nguyenhoangcam0256\\nguyenhoangcam0256\\nguyenhoangcam0256.csproj",
   "expectedPackageFiles": [
@@ -39,6 +39,7 @@
     "C:\\Users\\Nitro\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.5\\microsoft.entityframeworkcore.relational.7.0.5.nupkg.sha512",
     "C:\\Users\\Nitro\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\7.0.5\\microsoft.entityframeworkcore.sqlite.7.0.5.nupkg.sha512",
     "C:\\Users\\Nitro\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\7.0.5\\microsoft.entityframeworkcore.sqlite.core.7.0.5.nupkg.sha512",
+    "C:\\Users\\Nitro\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.5\\microsoft.entityframeworkcore.tools.7.0.5.nupkg.sha512",
     "C:\\Users\\Nitro\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Nitro\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
     "C:\\Users\\Nitro\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
