@@ -4,9 +4,9 @@
     ViewData["Title"] = "Edit";
 }
 
-<h1>Edit</h1>
+<h1>Sửa</h1>
 
-<h4>NHC256KhachHang</h4>
+<h4>Khách Hàng</h4>
 <hr />
 <div class="row">
     <div class="col-md-4">
@@ -14,12 +14,17 @@
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <input type="hidden" asp-for="NHC256KhachHangID" />
             <div class="form-group">
-                <label asp-for="NHC256NameKhachHang" class="control-label"></label>
+                <label asp-for="NHC256KhachHangID" class="control-label">Mã Khách Hàng</label>
+                <input asp-for="NHC256KhachHangID" class="form-control" />
+                <span asp-validation-for="NHC256KhachHangID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NHC256NameKhachHang" class="control-label">Tên Khách Hàng</label>
                 <input asp-for="NHC256NameKhachHang" class="form-control" />
                 <span asp-validation-for="NHC256NameKhachHang" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="NHC256Address" class="control-label"></label>
+                <label asp-for="NHC256Address" class="control-label">Địa Chỉ</label>
                 <input asp-for="NHC256Address" class="form-control" />
                 <span asp-validation-for="NHC256Address" class="text-danger"></span>
             </div>

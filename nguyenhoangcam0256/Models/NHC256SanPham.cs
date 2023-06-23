@@ -1,7 +1,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 namespace nguyenhoangcam0256.Models;
-[Table("NHC256SanPham")]
+
 public class NHC256SanPham
 {
     [Key]
